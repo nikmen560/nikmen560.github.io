@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="180d4275-e1bf-4d9d-a16e-4f7e45712514" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" listening_started="true" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="87530727-12b6-4226-bea5-c5b5cd77966d" name="php-auth" port="9000" use_path_mappings="true" />
+      <server host="localhost" id="258ef49e-e2c7-49ad-b512-ceac904b1448" name="localhost" />
+      <server host="php-auth" id="b7b495c6-1c41-4107-b56c-c6089fbb4514" name="php-auth (1)" />
+      <server host="third" id="1e76b0bc-d169-4ddd-b02e-caa41a28e228" name="third" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/OpenServer/domains/third" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="ProjectId" id="1j6V0tsjBVIvIPwWofwjNXUTHkx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../third" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="NOT_FILTER" server_name="localhost">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="180d4275-e1bf-4d9d-a16e-4f7e45712514" name="Default Changelist" comment="" />
+      <created>1603124309040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603124309040</updated>
+      <workItem from="1603124310088" duration="7391000" />
+      <workItem from="1603198652495" duration="15992000" />
+      <workItem from="1603218146681" duration="923000" />
+      <workItem from="1603219870286" duration="1096000" />
+      <workItem from="1603256392770" duration="3082000" />
+      <workItem from="1603261287208" duration="9080000" />
+      <workItem from="1603274441503" duration="3888000" />
+      <workItem from="1603281424197" duration="433000" />
+      <workItem from="1603281882272" duration="10970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="239" key="#SQL_Dialects" timestamp="1603124403134">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="118" y="239" key="#SQL_Dialects/0.30.1366.738@0.30.1366.738" timestamp="1603124403134" />
+    <state x="526" y="53" key="#Servers" timestamp="1603128443967">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="526" y="53" key="#Servers/0.30.1366.738@0.30.1366.738" timestamp="1603128443967" />
+    <state x="274" y="52" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603128458655">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="274" y="52" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1603128458655" />
+    <state width="461" height="466" key="DebuggerActiveHint" timestamp="1603292686671">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="461" height="466" key="DebuggerActiveHint/0.30.1366.738@0.30.1366.738" timestamp="1603292686671" />
+    <state x="804" y="153" key="FileChooserDialogImpl" timestamp="1603273604250">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="804" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1603273604250" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1603294784815">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1603294784815" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.1.bottom" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.1.bottom/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.1.center" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.1.center/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.1.left" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.1.left/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.1.right" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.1.right/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.2.bottom" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.2.bottom/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.2.center" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.2.center/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.2.left" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.2.left/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state width="1322" height="174" key="GridCell.Tab.2.right" timestamp="1603294784816">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.2.right/0.30.1366.738@0.30.1366.738" timestamp="1603294784816" />
+    <state x="518" y="321" key="NewPhpFileDialog" timestamp="1603211327424">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="518" y="321" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1603211327424" />
+    <state x="0" y="30" key="SettingsEditor" timestamp="1603303708970">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="0" y="30" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1603303708970" />
+    <state x="339" y="174" key="run.anything.popup" timestamp="1603220343725">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="339" y="174" key="run.anything.popup/0.30.1366.738@0.30.1366.738" timestamp="1603220343725" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603203825597">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1603203825597" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/signup.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tableUsers.php">
+        <watch expression="$_POST" />
+      </configuration>
+      <configuration name="profile.php">
+        <watch expression="$_SESSION" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
